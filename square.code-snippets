@@ -1,0 +1,11 @@
+{
+	"Square Brackets": {
+		"prefix": [
+			"sbrac"
+		],
+		"body": [
+			"[$1]"
+		],
+		"description": "Square Brackets."
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"Brackets": {
+		"prefix": [
+			"brac"
+		],
+		"body": [
+			"{\n\t$1\n}"
+		],
+		"description": "Brackets."
+	}
+}
